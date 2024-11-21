@@ -17,19 +17,19 @@ Heres some pics of what I've been working on!
 
 ### 🖼️ Hand-Drawn Circuit Diagram
 Take a look at the **circuit diagram** that shows how everything is connected together. Drawn by hand with love, of course!
-![Circuit Diagram](images/circuit_diagrams.jpg)
+![Circuit Diagram](images+videos/circuit_diagrams.jpg)
 
 ### 🖼️ Soldered Pins on the Back of the LCD
 A close-up of the **LCD's soldered pins** showing all the connections I made. Was my first real soldering project so it's not the prettiest, but it gets the job done!
-![LCD Soldered Pins](images/lcd_soldered_pins.jpg)
+![LCD Soldered Pins](images+videos/lcd_soldered_pins.jpg)
 
 ### 🎥 Temperature Test Video
 Check out this **video of the temperature sensor** in action! Watch as the temperature readings are displayed on the LCD screen in real time.
-[Watch the Sensor Test Video](images/sensor_reading_test.mp4)
+[Watch the Sensor Test Video](images+videos/sensor_reading_test.mp4)
 
 ### 🦎 Meet Tails the Gecko!
 And of course, here’s **Tails**, the crested gecko that inspired this whole project!
-![Tails the Gecko](images/tails_the_gecko.jpg)
+![Tails the Gecko](images+videos/tails_the_gecko.jpg)
 
 
 ## 🧑‍💻 Code
