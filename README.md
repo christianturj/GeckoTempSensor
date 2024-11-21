@@ -25,7 +25,7 @@ A close-up of the **LCD's soldered pins** showing all the connections I made. Wa
 
 ### 🎥 Temperature Test Video
 Check out this **video of the temperature sensor** in action! Watch as the temperature readings are displayed on the LCD screen in real time.
-[Watch the Sensor Test Video](images+videos/sensor_reading_test.mp4)
+[Watch the Sensor Test Video](https://youtube.com/shorts/lencvRkwPpM?feature=share)
 
 ### 🦎 Meet Tails the Gecko!
 And of course, here’s **Tails**, the crested gecko that inspired this whole project!
