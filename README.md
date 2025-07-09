@@ -1,39 +1,17 @@
-Welcome to **Gecko's Temperature Sensor Build**! This project is all about using a **DS18B20 temperature sensor** and a 16x2 **LCD screen** to display temperature readings, for **Tails the Gecko** 🦎! 
+This is my Gecko's Temperature Sensor Build! This project is all about using a DS18B20 temperature sensor and a 16x2 LCD screen to display temperature readings for my Gecko Tails!
 
-This fun project is a great way to monitor the temperature of your little reptilian friend’s home and keep their habitat just the right temperature, especially during the colder climate outside! ❄️
-
-## 🔧 What You'll Need
-
-- **Arduino Uno** 🛠️
-- **DS18B20 Temperature Sensor** 🌡️
-- **16x2 LCD Screen** (No I2C needed!) 💻
-- **5kΩ Potentiometer** for adjusting the contrast on the LCD 🔧
-- **4.7kΩ Resistor** for the sensor 🏷️
-- **Tails the Crested Gecko** 🦎 (optional)
-
-## 📸 Some pics! 
-
-Heres some pics of what I've been working on!
-
-### 🖼️ Hand-Drawn Circuit Diagram
-Take a look at the **circuit diagram** that shows how everything is connected together. Drawn by hand with love, of course!
+### Schematic
+This covers the circuit diagram that shows how everything is connected together. 
 ![Circuit Diagram](images+videos/circuit_diagrams.jpg)
 
-### 🖼️ Soldered Pins on the Back of the LCD
-A close-up of the **LCD's soldered pins** showing all the connections I made. Was my first real soldering project so it's not the prettiest, but it gets the job done!
-![LCD Soldered Pins](images+videos/lcd_soldered_pins.jpg)
 
-### 🎥 Temperature Test Video
-Check out this **video of the temperature sensor** in action! Watch as the temperature readings are displayed on the LCD screen in real time.
+### Temperature Test Video
+This is a video of the temperature sensor in action. 
 [Watch the Sensor Test Video](https://youtube.com/shorts/lencvRkwPpM?feature=share)
 
-### 🦎 Meet Tails the Gecko!
-And of course, here’s **Tails**, the crested gecko that inspired this whole project!
-![Tails the Gecko](images+videos/tails_the_gecko.jpg)
 
-
-## 🧑‍💻 Code
-Here’s a very simple Arduino sketch that powers the entire setup! It reads the temperature from the DS18B20 sensor and displays it on the LCD.
+## Code
+Here’s a very simple Arduino sketch that powers the entire setup. It reads the temperature from the DS18B20 sensor and displays it on the LCD.
 
 ```cpp
 #include <OneWire.h>
@@ -75,18 +53,7 @@ void loop() {
 }
 
 
- 
-💡 How It Works
 
-Temperature Sensor: The DS18B20 measures the temperature inside the tank, ensuring that Tails the Gecko stays warm this winter! 🐍
-
-LCD Display: The LCD screen shows the temperature in Celsius and Fahrenheit, updating every second, so you will always know what’s going on in the gecko habitat. 🌡️
-
-Code: The Arduino code is straightforward—read the sensor, print the value to the screen, and repeat! ⚡
-
-
-
-📄 License
 
 This project is open-source and licensed under the MIT License. Feel free to adapt it and create your own temperature-monitoring projects!
 
