@@ -53,10 +53,3 @@ void loop() {
 }
 
 
-
-
-This project is open-source and licensed under the MIT License. Feel free to adapt it and create your own temperature-monitoring projects!
-
-
-
-Thank you for checking out my fun little temperature sensor project! 🦎 If you have any questions, want to share your own version, or just want to talk about geckos, feel free to reach out.
