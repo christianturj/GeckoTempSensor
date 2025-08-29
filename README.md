@@ -5,7 +5,6 @@ This covers the circuit diagram that shows how everything is connected together.
 ![Circuit Diagram](images+videos/circuit_diagrams.jpg)
 
 
-### Temperature Test Video
 This is a video of the temperature sensor in action. 
 [Watch the Sensor Test Video](https://youtube.com/shorts/lencvRkwPpM?feature=share)
 
